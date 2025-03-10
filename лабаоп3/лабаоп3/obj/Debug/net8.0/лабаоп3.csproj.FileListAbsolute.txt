@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\bin\Debug\net8.0\лабаоп3.exe
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\bin\Debug\net8.0\лабаоп3.deps.json
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\bin\Debug\net8.0\лабаоп3.runtimeconfig.json
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\bin\Debug\net8.0\лабаоп3.dll
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\bin\Debug\net8.0\лабаоп3.pdb
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.dll
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\refint\лабаоп3.dll
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.pdb
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\лабаоп3.genruntimeconfig.cache
+C:\Users\user\Desktop\csharp\лабаоп3\лабаоп3\obj\Debug\net8.0\ref\лабаоп3.dll
