@@ -1,0 +1,15 @@
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.AssemblyInfoInputs.cache
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.AssemblyInfo.cs
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.csproj.CoreCompileInputs.cache
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.sourcelink.json
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\bin\Debug\net9.0-windows\oplaba4.exe
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\bin\Debug\net9.0-windows\oplaba4.deps.json
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\bin\Debug\net9.0-windows\oplaba4.runtimeconfig.json
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\bin\Debug\net9.0-windows\oplaba4.dll
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\bin\Debug\net9.0-windows\oplaba4.pdb
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.dll
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\refint\oplaba4.dll
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.pdb
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\oplaba4.genruntimeconfig.cache
+C:\Users\pmpte\source\repos\oplaba4\oplaba4\obj\Debug\net9.0-windows\ref\oplaba4.dll
