@@ -64,13 +64,13 @@ dotnet test
    dotnet restore
    
 
-## Проблеми з міграціями**:
+3. **Проблеми з міграціями**:
    
    dotnet ef migrations remove
    dotnet ef migrations add InitialCreate
    dotnet ef database update
    
-📞 Підтримка
+## 📞 Підтримка
 Виникли питання? Створіть issue або пишіть на flagitup_support@gmail.com
 
 📅 Останнє оновлення: 14/05/2025
