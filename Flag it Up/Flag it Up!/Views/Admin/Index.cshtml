@@ -1,0 +1,35 @@
+@model IEnumerable<FlagItUpApp.Models.User>
+@{
+    Layout = "_Layout";  // Використовуємо основний шаблон
+}
+
+<h2>Список користувачів</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Роль</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Role</td>
+                <td>
+                    <!-- Кнопка редагування -->
+                    <a href="@Url.Action("Edit", "Admin", new { username = user.Username })" class="btn btn-sm btn-warning">Редагувати</a>
+
+                    <!-- Форма для видалення користувача -->
+                    <form method="post" action="@Url.Action("Delete", "Admin")" style="display:inline;">
+                        <input type="hidden" name="username" value="@user.Username" />
+                        <button type="submit" class="btn btn-sm btn-danger">Видалити</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,23 @@
+[
+  {
+    "Username": "bodyanchik",
+    "PasswordHash": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+    "Role": "Admin",
+    "Email": "1",
+    "Phone": "1"
+  },
+  {
+    "Username": "\u0412\u043E\u0432\u0447\u0438\u043A",
+    "PasswordHash": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+    "Role": "Admin",
+    "Email": "",
+    "Phone": ""
+  },
+  {
+    "Username": "\u0421\u0432\u044F\u0442\u0456\u043A",
+    "PasswordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "Role": "Admin",
+    "Email": "",
+    "Phone": ""
+  }
+]

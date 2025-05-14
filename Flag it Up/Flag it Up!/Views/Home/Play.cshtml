@@ -1,0 +1,9 @@
+@{
+    var flag = ViewBag.Flag;
+}
+<h2>Guess the country</h2>
+<img src="@flag.ImagePath" style="width:200px"/>
+<form method="post" action="/Home/Submit">
+    <input name="answer" placeholder="Enter country name" />
+    <button type="submit">Submit</button>
+</form>

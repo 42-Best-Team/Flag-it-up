@@ -1,0 +1,856 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\flag it up!.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\flag it up!.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\repositories\\flagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\repositories\\flagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\flagitupwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\flagitupwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\unittest\\flagservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|solutionrelative:unittest\\flagservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FlagItUpDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\unittest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|solutionrelative:unittest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\unittest\\gameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A617F1E-C5C4-4EF2-9FF8-E33AF7ED1C47}|unittest\\unittest.csproj|solutionrelative:unittest\\gameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\models\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\models\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\services\\flagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\services\\flagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\data\\dbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\data\\dbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\data\\flags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\data\\flags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\migrations\\20250511135329_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\migrations\\20250511135329_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmpte\\AppData\\Local\\Temp\\.vsdbgsrc\\4913d45cf0b14867db8aedc43babd223ec7d514885a098364a947f73d1d92c62\\ActivatorUtilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\game\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\game\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\game\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\game\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\game\\images\\de.png||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\game\\images\\de.png||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\game\\gameresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\game\\gameresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.9038.rartemp\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.10387.rartemp\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|c:\\users\\pmpte\\source\\repos\\flag-it-up\\flag it up\\flag it up!\\flagitupwebapp.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96C62F1A-4E67-4990-BD8B-0577F9BA2502}|Flag it Up!\\Flag it Up!.csproj|solutionrelative:flag it up!\\flagitupwebapp.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flag it Up!.csproj",
+              "DocumentMoniker": "C:\\Users\\pmpte\\Source\\Repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Flag it Up!.csproj",
+              "RelativeDocumentMoniker": "Flag it Up!\\Flag it Up!.csproj",
+              "ToolTip": "C:\\Users\\pmpte\\Source\\Repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Flag it Up!.csproj",
+              "RelativeToolTip": "Flag it Up!\\Flag it Up!.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T10:32:45.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlagItUpWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\FlagItUpWebApp.csproj",
+              "RelativeDocumentMoniker": "Flag it Up!\\FlagItUpWebApp.csproj",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\FlagItUpWebApp.csproj",
+              "RelativeToolTip": "Flag it Up!\\FlagItUpWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T09:22:08.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\FlagRepository.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Repositories\\FlagRepository.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\FlagRepository.cs",
+              "RelativeToolTip": "Flag it Up!\\Repositories\\FlagRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAvwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:29:47.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Flag it Up!\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Flag it Up!\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-21T19:59:20.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Flag it Up!\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Flag it Up!\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-17T20:34:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FlagItUpDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FlagItUpDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T08:08:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbStorage.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\DbStorage.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Data\\DbStorage.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\DbStorage.cs",
+              "RelativeToolTip": "Flag it Up!\\Data\\DbStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:30:24.868Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlagService.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\FlagService.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Services\\FlagService.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\FlagService.cs",
+              "RelativeToolTip": "Flag it Up!\\Services\\FlagService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:38:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "unittest\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\UserServiceTests.cs",
+              "RelativeToolTip": "unittest\\UserServiceTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:57:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\GameServiceTest.cs",
+              "RelativeDocumentMoniker": "unittest\\GameServiceTest.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\GameServiceTest.cs",
+              "RelativeToolTip": "unittest\\GameServiceTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:49:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlagServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\FlagServiceTests.cs",
+              "RelativeDocumentMoniker": "unittest\\FlagServiceTests.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\FlagServiceTests.cs",
+              "RelativeToolTip": "unittest\\FlagServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:58:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "unittest.csproj",
+              "DocumentMoniker": "C:\\Users\\pmpte\\Source\\Repos\\Flag-it-up\\Flag it Up\\unittest\\unittest.csproj",
+              "RelativeDocumentMoniker": "unittest\\unittest.csproj",
+              "ToolTip": "C:\\Users\\pmpte\\Source\\Repos\\Flag-it-up\\Flag it Up\\unittest\\unittest.csproj",
+              "RelativeToolTip": "unittest\\unittest.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T06:03:18.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flag.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\Flag.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Models\\Flag.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\Flag.cs",
+              "RelativeToolTip": "Flag it Up!\\Models\\Flag.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:47:14.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Flag it Up!\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:38:30.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\appsettings.json",
+              "RelativeDocumentMoniker": "Flag it Up!\\appsettings.json",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\appsettings.json",
+              "RelativeToolTip": "Flag it Up!\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T10:29:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Flag it Up!\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:51:36.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\DBContext.cs",
+              "RelativeToolTip": "Flag it Up!\\Data\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:43:43.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Program.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Program.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Program.cs",
+              "RelativeToolTip": "Flag it Up!\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:36:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\User.cs",
+              "RelativeToolTip": "Flag it Up!\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:13:32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\users.json",
+              "RelativeDocumentMoniker": "Flag it Up!\\Data\\users.json",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\users.json",
+              "RelativeToolTip": "Flag it Up!\\Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T10:26:19.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "flags.json",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\flags.json",
+              "RelativeDocumentMoniker": "Flag it Up!\\Data\\flags.json",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Data\\flags.json",
+              "RelativeToolTip": "Flag it Up!\\Data\\flags.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T16:33:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Flag it Up!\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAMwGYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:48:14.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T15:38:00.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\UserService.cs",
+              "RelativeToolTip": "Flag it Up!\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:38:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\Game.cs",
+              "RelativeToolTip": "Flag it Up!\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:47:15.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Flag it Up!\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:30:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Services\\GameService.cs",
+              "RelativeToolTip": "Flag it Up!\\Services\\GameService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:49:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "unittest.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs",
+              "RelativeToolTip": "unittest\\obj\\Debug\\net8.0\\unittest.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:03:56.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Flag it Up!\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:50:12.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250511135329_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Migrations\\20250511135329_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Migrations\\20250511135329_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Migrations\\20250511135329_AddUsersTable.cs",
+              "RelativeToolTip": "Flag it Up!\\Migrations\\20250511135329_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:41:09.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Flag it Up!\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:49:15.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Flag it Up!\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:29:50.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Flag it Up!\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:15:40.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T14:02:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActivatorUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\.vsdbgsrc\\4913d45cf0b14867db8aedc43babd223ec7d514885a098364a947f73d1d92c62\\ActivatorUtilities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4913d45cf0b14867db8aedc43babd223ec7d514885a098364a947f73d1d92c62\\ActivatorUtilities.cs",
+              "ToolTip": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\.vsdbgsrc\\4913d45cf0b14867db8aedc43babd223ec7d514885a098364a947f73d1d92c62\\ActivatorUtilities.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4913d45cf0b14867db8aedc43babd223ec7d514885a098364a947f73d1d92c62\\ActivatorUtilities.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwEIAAABCAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:59:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Flag it Up!\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Flag it Up!\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:47:13.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Question.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\Question.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Game\\Question.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\Question.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Game\\Question.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:22:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\Start.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Game\\Start.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\Start.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Game\\Start.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T07:55:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:47:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:56:51.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:47:24.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:46:45.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:48:12.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GameResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\GameResults.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Game\\GameResults.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\GameResults.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\Game\\GameResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T07:56:08.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "de.png",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\images\\de.png",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\Game\\images\\de.png",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\Game\\images\\de.png",
+              "RelativeToolTip": "Flag it Up!\\Views\\Game\\images\\de.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T07:28:08.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:00:57.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Flag it Up!\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Flag it Up!\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T10:30:00.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.10387.rartemp\\users.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa6660.10387.rartemp\\users.json",
+              "ToolTip": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.10387.rartemp\\users.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa6660.10387.rartemp\\users.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T09:49:54.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.9038.rartemp\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa6660.9038.rartemp\\User.cs",
+              "ToolTip": "C:\\Users\\pmpte\\AppData\\Local\\Temp\\Rar$DIa6660.9038.rartemp\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa6660.9038.rartemp\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:49:41.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Flag it Up!\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Flag it Up!\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T16:07:46.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FlagItUpWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\FlagItUpWebApp.csproj",
+              "RelativeDocumentMoniker": "Flag it Up!\\FlagItUpWebApp.csproj",
+              "ToolTip": "C:\\Users\\pmpte\\source\\repos\\Flag-it-up\\Flag it Up\\Flag it Up!\\FlagItUpWebApp.csproj",
+              "RelativeToolTip": "Flag it Up!\\FlagItUpWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T16:06:20.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

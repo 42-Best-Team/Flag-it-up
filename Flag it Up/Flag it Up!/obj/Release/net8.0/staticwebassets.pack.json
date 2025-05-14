@@ -1,0 +1,1485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Flag it Up!.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Flag it Up!.6u97n5gg5o.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ad.png",
+      "PackagePath": "staticwebassets\\images\\ad.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ae.png",
+      "PackagePath": "staticwebassets\\images\\ae.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\af.png",
+      "PackagePath": "staticwebassets\\images\\af.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ag.png",
+      "PackagePath": "staticwebassets\\images\\ag.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ai.png",
+      "PackagePath": "staticwebassets\\images\\ai.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\al.png",
+      "PackagePath": "staticwebassets\\images\\al.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\am.png",
+      "PackagePath": "staticwebassets\\images\\am.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ao.png",
+      "PackagePath": "staticwebassets\\images\\ao.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\aq.png",
+      "PackagePath": "staticwebassets\\images\\aq.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ar.png",
+      "PackagePath": "staticwebassets\\images\\ar.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\as.png",
+      "PackagePath": "staticwebassets\\images\\as.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\at.png",
+      "PackagePath": "staticwebassets\\images\\at.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\au.png",
+      "PackagePath": "staticwebassets\\images\\au.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\aw.png",
+      "PackagePath": "staticwebassets\\images\\aw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ax.png",
+      "PackagePath": "staticwebassets\\images\\ax.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\az.png",
+      "PackagePath": "staticwebassets\\images\\az.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ba.png",
+      "PackagePath": "staticwebassets\\images\\ba.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bb.png",
+      "PackagePath": "staticwebassets\\images\\bb.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bd.png",
+      "PackagePath": "staticwebassets\\images\\bd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\be.png",
+      "PackagePath": "staticwebassets\\images\\be.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bf.png",
+      "PackagePath": "staticwebassets\\images\\bf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bh.png",
+      "PackagePath": "staticwebassets\\images\\bh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bi.png",
+      "PackagePath": "staticwebassets\\images\\bi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bj.png",
+      "PackagePath": "staticwebassets\\images\\bj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bl.png",
+      "PackagePath": "staticwebassets\\images\\bl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bm.png",
+      "PackagePath": "staticwebassets\\images\\bm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bn.png",
+      "PackagePath": "staticwebassets\\images\\bn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bo.png",
+      "PackagePath": "staticwebassets\\images\\bo.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bq.png",
+      "PackagePath": "staticwebassets\\images\\bq.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\br.png",
+      "PackagePath": "staticwebassets\\images\\br.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bs.png",
+      "PackagePath": "staticwebassets\\images\\bs.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bt.png",
+      "PackagePath": "staticwebassets\\images\\bt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bv.png",
+      "PackagePath": "staticwebassets\\images\\bv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bw.png",
+      "PackagePath": "staticwebassets\\images\\bw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\by.png",
+      "PackagePath": "staticwebassets\\images\\by.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\bz.png",
+      "PackagePath": "staticwebassets\\images\\bz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ca.png",
+      "PackagePath": "staticwebassets\\images\\ca.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cc.png",
+      "PackagePath": "staticwebassets\\images\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cd.png",
+      "PackagePath": "staticwebassets\\images\\cd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cf.png",
+      "PackagePath": "staticwebassets\\images\\cf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cg.png",
+      "PackagePath": "staticwebassets\\images\\cg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ch.png",
+      "PackagePath": "staticwebassets\\images\\ch.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ci.png",
+      "PackagePath": "staticwebassets\\images\\ci.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ck.png",
+      "PackagePath": "staticwebassets\\images\\ck.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cl.png",
+      "PackagePath": "staticwebassets\\images\\cl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cm.png",
+      "PackagePath": "staticwebassets\\images\\cm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cn.png",
+      "PackagePath": "staticwebassets\\images\\cn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\co.png",
+      "PackagePath": "staticwebassets\\images\\co.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cr.png",
+      "PackagePath": "staticwebassets\\images\\cr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cu.png",
+      "PackagePath": "staticwebassets\\images\\cu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cv.png",
+      "PackagePath": "staticwebassets\\images\\cv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cw.png",
+      "PackagePath": "staticwebassets\\images\\cw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cx.png",
+      "PackagePath": "staticwebassets\\images\\cx.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cy.png",
+      "PackagePath": "staticwebassets\\images\\cy.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\cz.png",
+      "PackagePath": "staticwebassets\\images\\cz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\de.png",
+      "PackagePath": "staticwebassets\\images\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\dj.png",
+      "PackagePath": "staticwebassets\\images\\dj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\dk.png",
+      "PackagePath": "staticwebassets\\images\\dk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\dm.png",
+      "PackagePath": "staticwebassets\\images\\dm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\do.png",
+      "PackagePath": "staticwebassets\\images\\do.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\dz.png",
+      "PackagePath": "staticwebassets\\images\\dz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ec.png",
+      "PackagePath": "staticwebassets\\images\\ec.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ee.png",
+      "PackagePath": "staticwebassets\\images\\ee.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\eg.png",
+      "PackagePath": "staticwebassets\\images\\eg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\eh.png",
+      "PackagePath": "staticwebassets\\images\\eh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\er.png",
+      "PackagePath": "staticwebassets\\images\\er.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\es.png",
+      "PackagePath": "staticwebassets\\images\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\et.png",
+      "PackagePath": "staticwebassets\\images\\et.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fi.png",
+      "PackagePath": "staticwebassets\\images\\fi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fj.png",
+      "PackagePath": "staticwebassets\\images\\fj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fk.png",
+      "PackagePath": "staticwebassets\\images\\fk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fm.png",
+      "PackagePath": "staticwebassets\\images\\fm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fo.png",
+      "PackagePath": "staticwebassets\\images\\fo.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\fr.png",
+      "PackagePath": "staticwebassets\\images\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ga.png",
+      "PackagePath": "staticwebassets\\images\\ga.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gb-eng.png",
+      "PackagePath": "staticwebassets\\images\\gb-eng.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gb-nir.png",
+      "PackagePath": "staticwebassets\\images\\gb-nir.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gb-sct.png",
+      "PackagePath": "staticwebassets\\images\\gb-sct.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gb-wls.png",
+      "PackagePath": "staticwebassets\\images\\gb-wls.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gb.png",
+      "PackagePath": "staticwebassets\\images\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gd.png",
+      "PackagePath": "staticwebassets\\images\\gd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ge.png",
+      "PackagePath": "staticwebassets\\images\\ge.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gf.png",
+      "PackagePath": "staticwebassets\\images\\gf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gg.png",
+      "PackagePath": "staticwebassets\\images\\gg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gh.png",
+      "PackagePath": "staticwebassets\\images\\gh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gi.png",
+      "PackagePath": "staticwebassets\\images\\gi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gl.png",
+      "PackagePath": "staticwebassets\\images\\gl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gm.png",
+      "PackagePath": "staticwebassets\\images\\gm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gn.png",
+      "PackagePath": "staticwebassets\\images\\gn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gp.png",
+      "PackagePath": "staticwebassets\\images\\gp.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gq.png",
+      "PackagePath": "staticwebassets\\images\\gq.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gr.png",
+      "PackagePath": "staticwebassets\\images\\gr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gs.png",
+      "PackagePath": "staticwebassets\\images\\gs.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gt.png",
+      "PackagePath": "staticwebassets\\images\\gt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gu.png",
+      "PackagePath": "staticwebassets\\images\\gu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gw.png",
+      "PackagePath": "staticwebassets\\images\\gw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\gy.png",
+      "PackagePath": "staticwebassets\\images\\gy.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\hk.png",
+      "PackagePath": "staticwebassets\\images\\hk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\hm.png",
+      "PackagePath": "staticwebassets\\images\\hm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\hn.png",
+      "PackagePath": "staticwebassets\\images\\hn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\hr.png",
+      "PackagePath": "staticwebassets\\images\\hr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ht.png",
+      "PackagePath": "staticwebassets\\images\\ht.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\hu.png",
+      "PackagePath": "staticwebassets\\images\\hu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\id.png",
+      "PackagePath": "staticwebassets\\images\\id.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ie.png",
+      "PackagePath": "staticwebassets\\images\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\il.png",
+      "PackagePath": "staticwebassets\\images\\il.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\im.png",
+      "PackagePath": "staticwebassets\\images\\im.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\in.png",
+      "PackagePath": "staticwebassets\\images\\in.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\io.png",
+      "PackagePath": "staticwebassets\\images\\io.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\iq.png",
+      "PackagePath": "staticwebassets\\images\\iq.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ir.png",
+      "PackagePath": "staticwebassets\\images\\ir.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\is.png",
+      "PackagePath": "staticwebassets\\images\\is.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\it.png",
+      "PackagePath": "staticwebassets\\images\\it.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\je.png",
+      "PackagePath": "staticwebassets\\images\\je.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\jm.png",
+      "PackagePath": "staticwebassets\\images\\jm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\jo.png",
+      "PackagePath": "staticwebassets\\images\\jo.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\jp.png",
+      "PackagePath": "staticwebassets\\images\\jp.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ke.png",
+      "PackagePath": "staticwebassets\\images\\ke.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kg.png",
+      "PackagePath": "staticwebassets\\images\\kg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kh.png",
+      "PackagePath": "staticwebassets\\images\\kh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ki.png",
+      "PackagePath": "staticwebassets\\images\\ki.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\km.png",
+      "PackagePath": "staticwebassets\\images\\km.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kn.png",
+      "PackagePath": "staticwebassets\\images\\kn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kp.png",
+      "PackagePath": "staticwebassets\\images\\kp.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kr.png",
+      "PackagePath": "staticwebassets\\images\\kr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kw.png",
+      "PackagePath": "staticwebassets\\images\\kw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ky.png",
+      "PackagePath": "staticwebassets\\images\\ky.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\kz.png",
+      "PackagePath": "staticwebassets\\images\\kz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\la.png",
+      "PackagePath": "staticwebassets\\images\\la.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lb.png",
+      "PackagePath": "staticwebassets\\images\\lb.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lc.png",
+      "PackagePath": "staticwebassets\\images\\lc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\li.png",
+      "PackagePath": "staticwebassets\\images\\li.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lk.png",
+      "PackagePath": "staticwebassets\\images\\lk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lr.png",
+      "PackagePath": "staticwebassets\\images\\lr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ls.png",
+      "PackagePath": "staticwebassets\\images\\ls.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lt.png",
+      "PackagePath": "staticwebassets\\images\\lt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lu.png",
+      "PackagePath": "staticwebassets\\images\\lu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\lv.png",
+      "PackagePath": "staticwebassets\\images\\lv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ly.png",
+      "PackagePath": "staticwebassets\\images\\ly.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ma.png",
+      "PackagePath": "staticwebassets\\images\\ma.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mc.png",
+      "PackagePath": "staticwebassets\\images\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\md.png",
+      "PackagePath": "staticwebassets\\images\\md.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\me.png",
+      "PackagePath": "staticwebassets\\images\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mf.png",
+      "PackagePath": "staticwebassets\\images\\mf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mg.png",
+      "PackagePath": "staticwebassets\\images\\mg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mh.png",
+      "PackagePath": "staticwebassets\\images\\mh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mk.png",
+      "PackagePath": "staticwebassets\\images\\mk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ml.png",
+      "PackagePath": "staticwebassets\\images\\ml.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mm.png",
+      "PackagePath": "staticwebassets\\images\\mm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mn.png",
+      "PackagePath": "staticwebassets\\images\\mn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mo.png",
+      "PackagePath": "staticwebassets\\images\\mo.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mp.png",
+      "PackagePath": "staticwebassets\\images\\mp.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mq.png",
+      "PackagePath": "staticwebassets\\images\\mq.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mr.png",
+      "PackagePath": "staticwebassets\\images\\mr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ms.png",
+      "PackagePath": "staticwebassets\\images\\ms.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mt.png",
+      "PackagePath": "staticwebassets\\images\\mt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mu.png",
+      "PackagePath": "staticwebassets\\images\\mu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mv.png",
+      "PackagePath": "staticwebassets\\images\\mv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mw.png",
+      "PackagePath": "staticwebassets\\images\\mw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mx.png",
+      "PackagePath": "staticwebassets\\images\\mx.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\my.png",
+      "PackagePath": "staticwebassets\\images\\my.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\mz.png",
+      "PackagePath": "staticwebassets\\images\\mz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\na.png",
+      "PackagePath": "staticwebassets\\images\\na.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nc.png",
+      "PackagePath": "staticwebassets\\images\\nc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ne.png",
+      "PackagePath": "staticwebassets\\images\\ne.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nf.png",
+      "PackagePath": "staticwebassets\\images\\nf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ng.png",
+      "PackagePath": "staticwebassets\\images\\ng.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ni.png",
+      "PackagePath": "staticwebassets\\images\\ni.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nl.png",
+      "PackagePath": "staticwebassets\\images\\nl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\no.png",
+      "PackagePath": "staticwebassets\\images\\no.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\np.png",
+      "PackagePath": "staticwebassets\\images\\np.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nr.png",
+      "PackagePath": "staticwebassets\\images\\nr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nu.png",
+      "PackagePath": "staticwebassets\\images\\nu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\nz.png",
+      "PackagePath": "staticwebassets\\images\\nz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\om.png",
+      "PackagePath": "staticwebassets\\images\\om.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pa.png",
+      "PackagePath": "staticwebassets\\images\\pa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pe.png",
+      "PackagePath": "staticwebassets\\images\\pe.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pf.png",
+      "PackagePath": "staticwebassets\\images\\pf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pg.png",
+      "PackagePath": "staticwebassets\\images\\pg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ph.png",
+      "PackagePath": "staticwebassets\\images\\ph.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pk.png",
+      "PackagePath": "staticwebassets\\images\\pk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pl.png",
+      "PackagePath": "staticwebassets\\images\\pl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pm.png",
+      "PackagePath": "staticwebassets\\images\\pm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pn.png",
+      "PackagePath": "staticwebassets\\images\\pn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pr.png",
+      "PackagePath": "staticwebassets\\images\\pr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ps.png",
+      "PackagePath": "staticwebassets\\images\\ps.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pt.png",
+      "PackagePath": "staticwebassets\\images\\pt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\pw.png",
+      "PackagePath": "staticwebassets\\images\\pw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\py.png",
+      "PackagePath": "staticwebassets\\images\\py.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\qa.png",
+      "PackagePath": "staticwebassets\\images\\qa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\re.png",
+      "PackagePath": "staticwebassets\\images\\re.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ro.png",
+      "PackagePath": "staticwebassets\\images\\ro.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\rs.png",
+      "PackagePath": "staticwebassets\\images\\rs.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ru.png",
+      "PackagePath": "staticwebassets\\images\\ru.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\rw.png",
+      "PackagePath": "staticwebassets\\images\\rw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sa.png",
+      "PackagePath": "staticwebassets\\images\\sa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sb.png",
+      "PackagePath": "staticwebassets\\images\\sb.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sc.png",
+      "PackagePath": "staticwebassets\\images\\sc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sd.png",
+      "PackagePath": "staticwebassets\\images\\sd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\se.png",
+      "PackagePath": "staticwebassets\\images\\se.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sg.png",
+      "PackagePath": "staticwebassets\\images\\sg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sh.png",
+      "PackagePath": "staticwebassets\\images\\sh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\si.png",
+      "PackagePath": "staticwebassets\\images\\si.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sj.png",
+      "PackagePath": "staticwebassets\\images\\sj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sk.png",
+      "PackagePath": "staticwebassets\\images\\sk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sl.png",
+      "PackagePath": "staticwebassets\\images\\sl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sm.png",
+      "PackagePath": "staticwebassets\\images\\sm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sn.png",
+      "PackagePath": "staticwebassets\\images\\sn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\so.png",
+      "PackagePath": "staticwebassets\\images\\so.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sr.png",
+      "PackagePath": "staticwebassets\\images\\sr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ss.png",
+      "PackagePath": "staticwebassets\\images\\ss.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\st.png",
+      "PackagePath": "staticwebassets\\images\\st.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sv.png",
+      "PackagePath": "staticwebassets\\images\\sv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sx.png",
+      "PackagePath": "staticwebassets\\images\\sx.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sy.png",
+      "PackagePath": "staticwebassets\\images\\sy.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\sz.png",
+      "PackagePath": "staticwebassets\\images\\sz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tc.png",
+      "PackagePath": "staticwebassets\\images\\tc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\td.png",
+      "PackagePath": "staticwebassets\\images\\td.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tf.png",
+      "PackagePath": "staticwebassets\\images\\tf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tg.png",
+      "PackagePath": "staticwebassets\\images\\tg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\th.png",
+      "PackagePath": "staticwebassets\\images\\th.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tj.png",
+      "PackagePath": "staticwebassets\\images\\tj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tk.png",
+      "PackagePath": "staticwebassets\\images\\tk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tl.png",
+      "PackagePath": "staticwebassets\\images\\tl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tm.png",
+      "PackagePath": "staticwebassets\\images\\tm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tn.png",
+      "PackagePath": "staticwebassets\\images\\tn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\to.png",
+      "PackagePath": "staticwebassets\\images\\to.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tr.png",
+      "PackagePath": "staticwebassets\\images\\tr.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tt.png",
+      "PackagePath": "staticwebassets\\images\\tt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tv.png",
+      "PackagePath": "staticwebassets\\images\\tv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tw.png",
+      "PackagePath": "staticwebassets\\images\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\tz.png",
+      "PackagePath": "staticwebassets\\images\\tz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ua.png",
+      "PackagePath": "staticwebassets\\images\\ua.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ug.png",
+      "PackagePath": "staticwebassets\\images\\ug.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\um.png",
+      "PackagePath": "staticwebassets\\images\\um.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ak.png",
+      "PackagePath": "staticwebassets\\images\\us-ak.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-al.png",
+      "PackagePath": "staticwebassets\\images\\us-al.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ar.png",
+      "PackagePath": "staticwebassets\\images\\us-ar.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-az.png",
+      "PackagePath": "staticwebassets\\images\\us-az.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ca.png",
+      "PackagePath": "staticwebassets\\images\\us-ca.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-co.png",
+      "PackagePath": "staticwebassets\\images\\us-co.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ct.png",
+      "PackagePath": "staticwebassets\\images\\us-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-de.png",
+      "PackagePath": "staticwebassets\\images\\us-de.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-fl.png",
+      "PackagePath": "staticwebassets\\images\\us-fl.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ga.png",
+      "PackagePath": "staticwebassets\\images\\us-ga.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-hi.png",
+      "PackagePath": "staticwebassets\\images\\us-hi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ia.png",
+      "PackagePath": "staticwebassets\\images\\us-ia.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-id.png",
+      "PackagePath": "staticwebassets\\images\\us-id.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-il.png",
+      "PackagePath": "staticwebassets\\images\\us-il.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-in.png",
+      "PackagePath": "staticwebassets\\images\\us-in.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ks.png",
+      "PackagePath": "staticwebassets\\images\\us-ks.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ky.png",
+      "PackagePath": "staticwebassets\\images\\us-ky.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-la.png",
+      "PackagePath": "staticwebassets\\images\\us-la.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ma.png",
+      "PackagePath": "staticwebassets\\images\\us-ma.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-me.png",
+      "PackagePath": "staticwebassets\\images\\us-me.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-mi.png",
+      "PackagePath": "staticwebassets\\images\\us-mi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-mn.png",
+      "PackagePath": "staticwebassets\\images\\us-mn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-mo.png",
+      "PackagePath": "staticwebassets\\images\\us-mo.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ms.png",
+      "PackagePath": "staticwebassets\\images\\us-ms.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-mt.png",
+      "PackagePath": "staticwebassets\\images\\us-mt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nc.png",
+      "PackagePath": "staticwebassets\\images\\us-nc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nd.png",
+      "PackagePath": "staticwebassets\\images\\us-nd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ne.png",
+      "PackagePath": "staticwebassets\\images\\us-ne.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nh.png",
+      "PackagePath": "staticwebassets\\images\\us-nh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nj.png",
+      "PackagePath": "staticwebassets\\images\\us-nj.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nm.png",
+      "PackagePath": "staticwebassets\\images\\us-nm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-nv.png",
+      "PackagePath": "staticwebassets\\images\\us-nv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ny.png",
+      "PackagePath": "staticwebassets\\images\\us-ny.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-oh.png",
+      "PackagePath": "staticwebassets\\images\\us-oh.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ok.png",
+      "PackagePath": "staticwebassets\\images\\us-ok.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-or.png",
+      "PackagePath": "staticwebassets\\images\\us-or.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-pa.png",
+      "PackagePath": "staticwebassets\\images\\us-pa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ri.png",
+      "PackagePath": "staticwebassets\\images\\us-ri.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-sc.png",
+      "PackagePath": "staticwebassets\\images\\us-sc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-sd.png",
+      "PackagePath": "staticwebassets\\images\\us-sd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-tn.png",
+      "PackagePath": "staticwebassets\\images\\us-tn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-tx.png",
+      "PackagePath": "staticwebassets\\images\\us-tx.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-ut.png",
+      "PackagePath": "staticwebassets\\images\\us-ut.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-va.png",
+      "PackagePath": "staticwebassets\\images\\us-va.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-vt.png",
+      "PackagePath": "staticwebassets\\images\\us-vt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-wa.png",
+      "PackagePath": "staticwebassets\\images\\us-wa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-wi.png",
+      "PackagePath": "staticwebassets\\images\\us-wi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-wv.png",
+      "PackagePath": "staticwebassets\\images\\us-wv.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us-wy.png",
+      "PackagePath": "staticwebassets\\images\\us-wy.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\us.png",
+      "PackagePath": "staticwebassets\\images\\us.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\usmd.png",
+      "PackagePath": "staticwebassets\\images\\usmd.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\uy.png",
+      "PackagePath": "staticwebassets\\images\\uy.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\uz.png",
+      "PackagePath": "staticwebassets\\images\\uz.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\va.png",
+      "PackagePath": "staticwebassets\\images\\va.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\vc.png",
+      "PackagePath": "staticwebassets\\images\\vc.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ve.png",
+      "PackagePath": "staticwebassets\\images\\ve.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\vg.png",
+      "PackagePath": "staticwebassets\\images\\vg.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\vi.png",
+      "PackagePath": "staticwebassets\\images\\vi.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\vn.png",
+      "PackagePath": "staticwebassets\\images\\vn.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\vu.png",
+      "PackagePath": "staticwebassets\\images\\vu.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\wf.png",
+      "PackagePath": "staticwebassets\\images\\wf.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ws.png",
+      "PackagePath": "staticwebassets\\images\\ws.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\xk.png",
+      "PackagePath": "staticwebassets\\images\\xk.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\ye.png",
+      "PackagePath": "staticwebassets\\images\\ye.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\yt.png",
+      "PackagePath": "staticwebassets\\images\\yt.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\za.png",
+      "PackagePath": "staticwebassets\\images\\za.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\zm.png",
+      "PackagePath": "staticwebassets\\images\\zm.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\images\\zw.png",
+      "PackagePath": "staticwebassets\\images\\zw.png"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmpte\\source\\repos\\Flag it Up! 3 3\\Flag it Up!\\Flag it Up!\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Flag it Up!.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Flag it Up!.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Flag it Up!.props",
+      "PackagePath": "build\\Flag it Up!.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Flag it Up!.props",
+      "PackagePath": "buildMultiTargeting\\Flag it Up!.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Flag it Up!.props",
+      "PackagePath": "buildTransitive\\Flag it Up!.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

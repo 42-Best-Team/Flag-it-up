@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Country": "Ukraine",
+    "Region": "Europe",
+    "ImagePath": "/images/flags/ukraine.png"
+  },
+  {
+    "Id": 2,
+    "Country": "Japan",
+    "Region": "Asia",
+    "ImagePath": "/images/flags/japan.png"
+  }
+]

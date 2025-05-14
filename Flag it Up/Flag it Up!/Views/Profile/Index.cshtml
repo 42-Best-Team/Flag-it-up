@@ -1,0 +1,15 @@
+@model FlagItUpApp.Models.User
+@{
+    Layout = "_Layout";
+}
+<h2>👤 Ваш профіль</h2>
+<p><strong>Логін:</strong> @Model.Username</p>
+<form method="post" action="/Profile/Update">
+    <div class="mb-2">
+        <label>Email:</label>
+        <input name="email" class="form-control" value="@Model.Email" />
+    </div>
+    <div class="mb-2">
+    </div>
+    <button type="submit" class="btn btn-success">Зберегти</button>
+</form>

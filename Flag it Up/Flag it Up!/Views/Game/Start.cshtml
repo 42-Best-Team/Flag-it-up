@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Початок гри";
+}
+
+<h2>🎌 Flag it up! — Почати гру</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form method="get" asp-action="Start" asp-controller="Game">
+    <label for="mode">Оберіть режим гри:</label>
+    <select name="mode" class="form-control" required>
+        <option value="" disabled selected>-- Виберіть --</option>
+        <option value="Europe">Європа</option>
+        <option value="Asia">Азія</option>
+        <option value="USA">США</option>
+        <option value="All">Вся планета</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary mt-3">🎮 Грати</button>
+</form>

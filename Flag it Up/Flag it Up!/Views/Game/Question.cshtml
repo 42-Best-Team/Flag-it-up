@@ -1,0 +1,16 @@
+﻿@model FlagItUpApp.Models.Flag
+
+<h3>Вгадай країну за прапором</h3>
+
+<img src="/@Model.ImagePath" alt="Прапор" style="max-width: 200px; height: auto;" />
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger mt-2">@TempData["Error"]</div>
+}
+
+<form asp-action="Answer" asp-controller="Game" method="post">
+    @Html.AntiForgeryToken()
+    <input type="text" name="answer" placeholder="Ваша відповідь..." required class="form-control mt-2" />
+    <button type="submit" class="btn btn-primary mt-2">Перевірити</button>
+</form>

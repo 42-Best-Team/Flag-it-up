@@ -1,0 +1,285 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Flag_it_Up_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Views\Game\images\ad.png" />
+    <Content Include="Views\Game\images\ae.png" />
+    <Content Include="Views\Game\images\af.png" />
+    <Content Include="Views\Game\images\ag.png" />
+    <Content Include="Views\Game\images\ai.png" />
+    <Content Include="Views\Game\images\al.png" />
+    <Content Include="Views\Game\images\am.png" />
+    <Content Include="Views\Game\images\ao.png" />
+    <Content Include="Views\Game\images\aq.png" />
+    <Content Include="Views\Game\images\ar.png" />
+    <Content Include="Views\Game\images\as.png" />
+    <Content Include="Views\Game\images\at.png" />
+    <Content Include="Views\Game\images\au.png" />
+    <Content Include="Views\Game\images\aw.png" />
+    <Content Include="Views\Game\images\ax.png" />
+    <Content Include="Views\Game\images\az.png" />
+    <Content Include="Views\Game\images\ba.png" />
+    <Content Include="Views\Game\images\bb.png" />
+    <Content Include="Views\Game\images\bd.png" />
+    <Content Include="Views\Game\images\be.png" />
+    <Content Include="Views\Game\images\bf.png" />
+    <Content Include="Views\Game\images\bg.png" />
+    <Content Include="Views\Game\images\bh.png" />
+    <Content Include="Views\Game\images\bi.png" />
+    <Content Include="Views\Game\images\bj.png" />
+    <Content Include="Views\Game\images\bl.png" />
+    <Content Include="Views\Game\images\bm.png" />
+    <Content Include="Views\Game\images\bn.png" />
+    <Content Include="Views\Game\images\bo.png" />
+    <Content Include="Views\Game\images\bq.png" />
+    <Content Include="Views\Game\images\br.png" />
+    <Content Include="Views\Game\images\bs.png" />
+    <Content Include="Views\Game\images\bt.png" />
+    <Content Include="Views\Game\images\bv.png" />
+    <Content Include="Views\Game\images\bw.png" />
+    <Content Include="Views\Game\images\by.png" />
+    <Content Include="Views\Game\images\bz.png" />
+    <Content Include="Views\Game\images\ca.png" />
+    <Content Include="Views\Game\images\cc.png" />
+    <Content Include="Views\Game\images\cd.png" />
+    <Content Include="Views\Game\images\cf.png" />
+    <Content Include="Views\Game\images\cg.png" />
+    <Content Include="Views\Game\images\ch.png" />
+    <Content Include="Views\Game\images\ci.png" />
+    <Content Include="Views\Game\images\ck.png" />
+    <Content Include="Views\Game\images\cl.png" />
+    <Content Include="Views\Game\images\cm.png" />
+    <Content Include="Views\Game\images\cn.png" />
+    <Content Include="Views\Game\images\co.png" />
+    <Content Include="Views\Game\images\cr.png" />
+    <Content Include="Views\Game\images\cu.png" />
+    <Content Include="Views\Game\images\cv.png" />
+    <Content Include="Views\Game\images\cw.png" />
+    <Content Include="Views\Game\images\cx.png" />
+    <Content Include="Views\Game\images\cy.png" />
+    <Content Include="Views\Game\images\cz.png" />
+    <Content Include="Views\Game\images\de.png" />
+    <Content Include="Views\Game\images\dj.png" />
+    <Content Include="Views\Game\images\dk.png" />
+    <Content Include="Views\Game\images\dm.png" />
+    <Content Include="Views\Game\images\do.png" />
+    <Content Include="Views\Game\images\dz.png" />
+    <Content Include="Views\Game\images\ec.png" />
+    <Content Include="Views\Game\images\ee.png" />
+    <Content Include="Views\Game\images\eg.png" />
+    <Content Include="Views\Game\images\eh.png" />
+    <Content Include="Views\Game\images\er.png" />
+    <Content Include="Views\Game\images\es.png" />
+    <Content Include="Views\Game\images\et.png" />
+    <Content Include="Views\Game\images\fi.png" />
+    <Content Include="Views\Game\images\fj.png" />
+    <Content Include="Views\Game\images\fk.png" />
+    <Content Include="Views\Game\images\fm.png" />
+    <Content Include="Views\Game\images\fo.png" />
+    <Content Include="Views\Game\images\fr.png" />
+    <Content Include="Views\Game\images\ga.png" />
+    <Content Include="Views\Game\images\gb-eng.png" />
+    <Content Include="Views\Game\images\gb-nir.png" />
+    <Content Include="Views\Game\images\gb-sct.png" />
+    <Content Include="Views\Game\images\gb-wls.png" />
+    <Content Include="Views\Game\images\gb.png" />
+    <Content Include="Views\Game\images\gd.png" />
+    <Content Include="Views\Game\images\ge.png" />
+    <Content Include="Views\Game\images\gf.png" />
+    <Content Include="Views\Game\images\gg.png" />
+    <Content Include="Views\Game\images\gh.png" />
+    <Content Include="Views\Game\images\gi.png" />
+    <Content Include="Views\Game\images\gl.png" />
+    <Content Include="Views\Game\images\gm.png" />
+    <Content Include="Views\Game\images\gn.png" />
+    <Content Include="Views\Game\images\gp.png" />
+    <Content Include="Views\Game\images\gq.png" />
+    <Content Include="Views\Game\images\gr.png" />
+    <Content Include="Views\Game\images\gs.png" />
+    <Content Include="Views\Game\images\gt.png" />
+    <Content Include="Views\Game\images\gu.png" />
+    <Content Include="Views\Game\images\gw.png" />
+    <Content Include="Views\Game\images\gy.png" />
+    <Content Include="Views\Game\images\hk.png" />
+    <Content Include="Views\Game\images\hm.png" />
+    <Content Include="Views\Game\images\hn.png" />
+    <Content Include="Views\Game\images\hr.png" />
+    <Content Include="Views\Game\images\ht.png" />
+    <Content Include="Views\Game\images\hu.png" />
+    <Content Include="Views\Game\images\id.png" />
+    <Content Include="Views\Game\images\ie.png" />
+    <Content Include="Views\Game\images\il.png" />
+    <Content Include="Views\Game\images\im.png" />
+    <Content Include="Views\Game\images\in.png" />
+    <Content Include="Views\Game\images\io.png" />
+    <Content Include="Views\Game\images\iq.png" />
+    <Content Include="Views\Game\images\ir.png" />
+    <Content Include="Views\Game\images\is.png" />
+    <Content Include="Views\Game\images\it.png" />
+    <Content Include="Views\Game\images\je.png" />
+    <Content Include="Views\Game\images\jm.png" />
+    <Content Include="Views\Game\images\jo.png" />
+    <Content Include="Views\Game\images\jp.png" />
+    <Content Include="Views\Game\images\ke.png" />
+    <Content Include="Views\Game\images\kg.png" />
+    <Content Include="Views\Game\images\kh.png" />
+    <Content Include="Views\Game\images\ki.png" />
+    <Content Include="Views\Game\images\km.png" />
+    <Content Include="Views\Game\images\kn.png" />
+    <Content Include="Views\Game\images\kp.png" />
+    <Content Include="Views\Game\images\kr.png" />
+    <Content Include="Views\Game\images\kw.png" />
+    <Content Include="Views\Game\images\ky.png" />
+    <Content Include="Views\Game\images\kz.png" />
+    <Content Include="Views\Game\images\la.png" />
+    <Content Include="Views\Game\images\lb.png" />
+    <Content Include="Views\Game\images\lc.png" />
+    <Content Include="Views\Game\images\li.png" />
+    <Content Include="Views\Game\images\lk.png" />
+    <Content Include="Views\Game\images\lr.png" />
+    <Content Include="Views\Game\images\ls.png" />
+    <Content Include="Views\Game\images\lt.png" />
+    <Content Include="Views\Game\images\lu.png" />
+    <Content Include="Views\Game\images\lv.png" />
+    <Content Include="Views\Game\images\ly.png" />
+    <Content Include="Views\Game\images\ma.png" />
+    <Content Include="Views\Game\images\mc.png" />
+    <Content Include="Views\Game\images\md.png" />
+    <Content Include="Views\Game\images\me.png" />
+    <Content Include="Views\Game\images\mf.png" />
+    <Content Include="Views\Game\images\mg.png" />
+    <Content Include="Views\Game\images\mh.png" />
+    <Content Include="Views\Game\images\mk.png" />
+    <Content Include="Views\Game\images\ml.png" />
+    <Content Include="Views\Game\images\mm.png" />
+    <Content Include="Views\Game\images\mn.png" />
+    <Content Include="Views\Game\images\mo.png" />
+    <Content Include="Views\Game\images\mp.png" />
+    <Content Include="Views\Game\images\mq.png" />
+    <Content Include="Views\Game\images\mr.png" />
+    <Content Include="Views\Game\images\ms.png" />
+    <Content Include="Views\Game\images\mt.png" />
+    <Content Include="Views\Game\images\mu.png" />
+    <Content Include="Views\Game\images\mv.png" />
+    <Content Include="Views\Game\images\mw.png" />
+    <Content Include="Views\Game\images\mx.png" />
+    <Content Include="Views\Game\images\my.png" />
+    <Content Include="Views\Game\images\mz.png" />
+    <Content Include="Views\Game\images\na.png" />
+    <Content Include="Views\Game\images\nc.png" />
+    <Content Include="Views\Game\images\ne.png" />
+    <Content Include="Views\Game\images\nf.png" />
+    <Content Include="Views\Game\images\ng.png" />
+    <Content Include="Views\Game\images\ni.png" />
+    <Content Include="Views\Game\images\nl.png" />
+    <Content Include="Views\Game\images\no.png" />
+    <Content Include="Views\Game\images\np.png" />
+    <Content Include="Views\Game\images\nr.png" />
+    <Content Include="Views\Game\images\nu.png" />
+    <Content Include="Views\Game\images\nz.png" />
+    <Content Include="Views\Game\images\om.png" />
+    <Content Include="Views\Game\images\pa.png" />
+    <Content Include="Views\Game\images\pe.png" />
+    <Content Include="Views\Game\images\pf.png" />
+    <Content Include="Views\Game\images\pg.png" />
+    <Content Include="Views\Game\images\ph.png" />
+    <Content Include="Views\Game\images\pk.png" />
+    <Content Include="Views\Game\images\pl.png" />
+    <Content Include="Views\Game\images\pm.png" />
+    <Content Include="Views\Game\images\pn.png" />
+    <Content Include="Views\Game\images\pr.png" />
+    <Content Include="Views\Game\images\ps.png" />
+    <Content Include="Views\Game\images\pt.png" />
+    <Content Include="Views\Game\images\pw.png" />
+    <Content Include="Views\Game\images\py.png" />
+    <Content Include="Views\Game\images\qa.png" />
+    <Content Include="Views\Game\images\re.png" />
+    <Content Include="Views\Game\images\ro.png" />
+    <Content Include="Views\Game\images\rs.png" />
+    <Content Include="Views\Game\images\ru.png" />
+    <Content Include="Views\Game\images\rw.png" />
+    <Content Include="Views\Game\images\sa.png" />
+    <Content Include="Views\Game\images\sb.png" />
+    <Content Include="Views\Game\images\sc.png" />
+    <Content Include="Views\Game\images\sd.png" />
+    <Content Include="Views\Game\images\se.png" />
+    <Content Include="Views\Game\images\sg.png" />
+    <Content Include="Views\Game\images\sh.png" />
+    <Content Include="Views\Game\images\si.png" />
+    <Content Include="Views\Game\images\sj.png" />
+    <Content Include="Views\Game\images\sk.png" />
+    <Content Include="Views\Game\images\sl.png" />
+    <Content Include="Views\Game\images\sm.png" />
+    <Content Include="Views\Game\images\sn.png" />
+    <Content Include="Views\Game\images\so.png" />
+    <Content Include="Views\Game\images\sr.png" />
+    <Content Include="Views\Game\images\ss.png" />
+    <Content Include="Views\Game\images\st.png" />
+    <Content Include="Views\Game\images\sv.png" />
+    <Content Include="Views\Game\images\sx.png" />
+    <Content Include="Views\Game\images\sy.png" />
+    <Content Include="Views\Game\images\sz.png" />
+    <Content Include="Views\Game\images\tc.png" />
+    <Content Include="Views\Game\images\td.png" />
+    <Content Include="Views\Game\images\tf.png" />
+    <Content Include="Views\Game\images\tg.png" />
+    <Content Include="Views\Game\images\th.png" />
+    <Content Include="Views\Game\images\tj.png" />
+    <Content Include="Views\Game\images\tk.png" />
+    <Content Include="Views\Game\images\tl.png" />
+    <Content Include="Views\Game\images\tm.png" />
+    <Content Include="Views\Game\images\tn.png" />
+    <Content Include="Views\Game\images\to.png" />
+    <Content Include="Views\Game\images\tr.png" />
+    <Content Include="Views\Game\images\tt.png" />
+    <Content Include="Views\Game\images\tv.png" />
+    <Content Include="Views\Game\images\tw.png" />
+    <Content Include="Views\Game\images\tz.png" />
+    <Content Include="Views\Game\images\ua.png" />
+    <Content Include="Views\Game\images\ug.png" />
+    <Content Include="Views\Game\images\um.png" />
+    <Content Include="Views\Game\images\us.png" />
+    <Content Include="Views\Game\images\uy.png" />
+    <Content Include="Views\Game\images\uz.png" />
+    <Content Include="Views\Game\images\va.png" />
+    <Content Include="Views\Game\images\vc.png" />
+    <Content Include="Views\Game\images\ve.png" />
+    <Content Include="Views\Game\images\vg.png" />
+    <Content Include="Views\Game\images\vi.png" />
+    <Content Include="Views\Game\images\vn.png" />
+    <Content Include="Views\Game\images\vu.png" />
+    <Content Include="Views\Game\images\wf.png" />
+    <Content Include="Views\Game\images\ws.png" />
+    <Content Include="Views\Game\images\xk.png" />
+    <Content Include="Views\Game\images\ye.png" />
+    <Content Include="Views\Game\images\yt.png" />
+    <Content Include="Views\Game\images\za.png" />
+    <Content Include="Views\Game\images\zm.png" />
+    <Content Include="Views\Game\images\zw.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="FlagItUpWebApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
