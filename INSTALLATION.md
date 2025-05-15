@@ -4,7 +4,6 @@
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) (або VS Code)
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (для бази даних)
-- Повний код знаходиться у гілці master
   
 ## 🚀 Швидкий старт
 1. Клонуйте репозиторій:
